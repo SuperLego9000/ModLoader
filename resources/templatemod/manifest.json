@@ -1,0 +1,8 @@
+{
+    "Name" : "test",
+    "Discription" : "This is a test mod",
+    "changes" :[
+        "Changed some texture", 
+        "Did something else"
+    ]
+}
